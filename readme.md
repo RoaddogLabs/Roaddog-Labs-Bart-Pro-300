@@ -5,7 +5,7 @@ based on a mashup implemented from several designs including original
 designs.  
 
 
-#####Bart Pro XL-HD uses high performance lead screws, M10 precision shaft on all axis, high temp hot end suitable to 400*C, auto bed probe (bed leveling), silcone bed heater, MIC 6 precision aluminum print surface with PEI.
+#####Bart Pro 300 uses high performance lead screws, M10 precision shaft on all axis, high temp hot end suitable to 400*C, auto bed probe (bed leveling), silcone bed heater, MIC 6 precision aluminum print surface with PEI.
 
 ### This is a pre release version
 ### 
@@ -17,7 +17,7 @@ Pull requests are welcome and encouraged.
 #### Roaddog Labs Bart Pro 300 Specs ####
 
 
-| Feature | Bart Pro XL-HD |
+| Feature | Bart Pro 300 |
 |---------|-------------|
 | Base and Frame | Full melamine frame, printed parts, latest design for maximum stability and print speeds |
 | Build Envelope | 300 mm x 300 mm x 300 mm |
