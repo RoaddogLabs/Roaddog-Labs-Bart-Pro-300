@@ -20,15 +20,14 @@ Pull requests are welcome and encouraged.
 | Feature | Bart Pro 300 |
 |---------|-------------|
 | Base and Frame | Full melamine frame, printed parts, latest design for maximum stability and print speeds |
-| Build Envelope | 300 mm x 300 mm x 300 mm |
+| Build Envelope | 300 mm x 300 mm x 200 mm |
 | Resolution (printable layer thickness) | low res .3 mm; normal res .2 mm; hi res .1 mm; extra hi res .06 mm |
 | Filament Diameter | 1.75 |
 | Max Printing Temp | 248&#176; C with E3D Lite v6; 300&#176; C with E3D full v6 with thermistor, 400&#176; C with optional thermocouple |
 | Compatible Materials | With E3D v6, any printable material to 400&#176; C with E3D v6 and thermocouple.  With E3D Lite v6 more than 15 types including PLA, ABS, Laywoo-D, HIPS, carbon fiber reinforced PLA, flexible filament, conductive PLA |
 | Nozzle Size | .4 mm standard, user upgradable to a variety of sizes |
-| Heated Bed | Polyimide heater, 24 volt with aluminum heat spreader |
-| Print Surface |0.25" MIC-6 aluminum precision tooling plate
-| Extruder | Bart Direct Drive MK7, low profile, reduced weight and mass, optional E3D Titan or Bondtech QR extruder |
+| Heated Bed | silicone heater, 24 volt 250 watt|
+| Print Surface |0.25" MIC-6 aluminum precision tooling plate with PEI surface| Extruder | Bart Direct Drive MK7, low profile, reduced weight and mass, optional E3D Titan or Bondtech QR extruder |
 | Bed Tilt Compensation | Belt tilt compensation, also called auto bed leveling or tramming via an inductive sensor |
 |Electronics | Mini Rambo configured for Bart Pro XL with Marlin firmware |
 | Power Supply | 24 volts, 400 watts compact form factor |
