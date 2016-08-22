@@ -11,7 +11,7 @@ Rods
 
 2 x TR8 x 300 mm lead screws and nuts
 
-2 x M10 x TBA Z axis precision rod
+2 x M10 x 320 Z axis precision rod (for 180 mm vertical build envelope)
 
 2 x M10 x 400 mm X axis precision rod
 
@@ -41,8 +41,10 @@ Printed Parts
 1 x extruder idler
 1 x hot end mounting clip
 1 x fan duct
+1 x bed probe mount
 
-1 x z endstop bracket
+1 x z endstop bracket/ rod guide base
+1 x z rod guide base
 
 Misc Hardware
 
@@ -95,7 +97,11 @@ Electronics
 
 1 x 400 watt, 24 volt PSU
 
-1 x kapton tape heating pad
+1 x 300 mm x 300 mm 24 volt, 250 watt silicone heating pad with 100k ohm thermistor
+
+1 x inductive probe, LJ12A3-4-Z/BX w/voltage divider for signal return
+
+1 x E3D v6 hot end kit, 24 volt
 
 
 
