@@ -9,7 +9,7 @@ Frame
 
 Rods
 
-2 x TR8 x 300 mm lead screws and nuts
+2 x TR8 x 300 mm lead screws and nuts (recommend lead screws integrated with Z motors similar to https://www.pololu.com/product/2268)
 
 2 x M10 x 320 Z axis precision rod (for 180 mm vertical build envelope)
 
@@ -20,7 +20,8 @@ Rods
 Bearings
 
 12 x LM10UU linear bearings
-3 x 624ZZ bearings
+2 x 624ZZ bearings
+1 x 608ZZ bearings
 
 
 Printed Parts
@@ -54,7 +55,7 @@ Misc Hardware
 
 4 x rubber feet
 
-2 x rod couplers
+2 x rod couplers (not needed if lead screws are integrated with motors)
 
 1 x 300 mm x 300 mm x .25 mm MIC-6 aluminum build plate
 
@@ -85,6 +86,10 @@ Fasteners
 06 x  M4 hex nut
 10 x  M4 flat washer
 03 x  M4 nyloc nut
+
+01 x  M8 x 30 mm shcs
+01 x  M8 nyloc nut
+06 x  M8 flat washer
 
 Electronics
 
