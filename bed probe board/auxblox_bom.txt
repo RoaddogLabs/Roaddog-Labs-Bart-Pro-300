@@ -1,0 +1,7 @@
+Partlist exported from /Users/dave/Documents/eagle/auxblox/auxblox.sch at 10/16/16 1:37 PM
+
+Part Value   Device                              Package Description               VALUE  
+CN1  3p-2.54 DIP-BLACK-MALE-HEADER-VERT(3P-2.54) H3-2.54 320020079                 3p-2.54
+CN2  3p-2.54 DIP-BLACK-MALE-HEADER-VERT(3P-2.54) H3-2.54 320020079                 3p-2.54
+R1   1k      R-EU_R0805                          R0805   RESISTOR, European symbol        
+R2   3.3K    R-EU_R0805                          R0805   RESISTOR, European symbol        
